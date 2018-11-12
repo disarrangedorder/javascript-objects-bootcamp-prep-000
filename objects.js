@@ -10,3 +10,9 @@ function updatePlaylist(playlist, artistName, songTitle){
 
 updatePlaylist(playlist, "Eagles", "Hotel California")
 console.log(playlist)
+
+
+function removeFromPlaylist (playlist, artistName) {
+  delete playlist.artistName
+  return playlist
+}
