@@ -1,6 +1,6 @@
 var playlist = {
-  Slowdive: "Like a Prayer",
-  PhilOohs: "Another Song"
+  "Slowdive": "Like a Prayer",
+  "Phil Oohs": "Another Song"
 };
 
 function updatePlaylist(playlist, artistName, songTitle){
