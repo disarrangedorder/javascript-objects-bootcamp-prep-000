@@ -1,6 +1,5 @@
 var playlist = {
   Slowdive: "Like a Prayer",
-  My Bloody Valentine: "Second Sun",
   Phil Oohs: "Another Song"
 };
 
