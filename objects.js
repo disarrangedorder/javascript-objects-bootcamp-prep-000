@@ -9,3 +9,4 @@ function updatePlaylist(playlist, artistName, songTitle){
 }
 
 updatePlaylist(playlist, "Eagles", "Hotel California")
+console.log(playlist)
