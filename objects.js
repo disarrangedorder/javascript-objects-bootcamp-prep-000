@@ -1,6 +1,7 @@
 var playlist = {
-  Madonna: "Like a Prayer",
-  Bonobo: "Second Sun"
+  Slowdive: "Like a Prayer",
+  My Bloody Valentine: "Second Sun"
+  Phil Oohs: "Another Song"
 };
 
 function updatePlaylist(playlist, artistName, songTitle){
