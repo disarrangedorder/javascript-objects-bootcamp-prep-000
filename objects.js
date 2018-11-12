@@ -1,7 +1,4 @@
 var playlist = {
-  Madonna: "Like a Prayer"
+  Madonna: "Like a Prayer",
   Bonobo: "Second Sun"
 };
-
-
-
